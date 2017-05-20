@@ -32,5 +32,8 @@
     "rollup-plugin-commonjs": "^8.0.2",
     "rollup-plugin-node-resolve": "^3.0.0",
     "sass-lint": "^1.10.2"
+  },
+  "dependencies": {
+    "modular-class": "github:nikolaswise/modular-class"
   }
 }
