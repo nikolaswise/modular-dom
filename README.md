@@ -1,2 +1,2 @@
-# modular-
-Modular design system for
+# modular-dom
+Small js helpers for handling dom nodes
